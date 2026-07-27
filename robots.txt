@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-av5b79.pulaucuan.org/sitemap.xml
